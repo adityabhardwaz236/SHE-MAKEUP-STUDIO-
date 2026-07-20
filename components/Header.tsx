@@ -4,11 +4,11 @@ import { useEffect, useState } from "react";
 import { usePathname } from "next/navigation";
 
 const links = [
-  ["HOME", "/"],
-  ["OUR STORY", "/our-story"],
-  ["SERVICES", "/services"],
-  ["GALLERY", "/gallery"],
-  ["CONTACT", "/contact"],
+  ["Home", "/"],
+  ["Our Story", "/our-story"],
+  ["Services", "/services"],
+  ["Gallery", "/gallery"],
+  ["Contact", "/contact"],
 ];
 
 export default function Header() {

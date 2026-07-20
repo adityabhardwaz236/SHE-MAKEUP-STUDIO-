@@ -14,7 +14,7 @@ export default function Booking() {
     <section className="booking section-pad" id="booking">
       <div className="booking-copy">
         <div className="eyebrow">YOUR TIME, BEAUTIFULLY SPENT</div>
-        <h2>Ready for your<br />SHE moment?</h2>
+        <h2>Ready for your<br />BEAUTIFUL moment?</h2>
         <p>
           Tell us what you have in mind and your preferred date. We’ll help you
           choose the right artist, service and timing.
